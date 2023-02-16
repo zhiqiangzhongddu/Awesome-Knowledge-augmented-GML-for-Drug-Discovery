@@ -193,6 +193,9 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 
     *Tengfei Ma, Xuan Lin, Bosheng Song, Philip S. Yu, Xiangxiang Zeng.*
 
+1. **Directional Message Passing on Molecular Graphs via Synthetic Coordinates.** NeurIPS 2021. [paper](https://arxiv.org/abs/2111.04718)
+
+    *Johannes Gasteiger, Chandan Yeshwanth, Stephan Günnemann.*
 
 <a name="preprocessing" />
 
@@ -202,34 +205,121 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 
 ### Feature augmentation
 
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
+1. **Neural Message Passing for Quantum Chemistry.** ICML 2017. [paper](https://arxiv.org/abs/1704.01212)
 
-    *Authors.*
+    *Justin Gilmer, Samuel S. Schoenholz, Patrick F. Riley, Oriol Vinyals, and George E. Dahl.*
 
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
+1. **Analyzing Learned Molecular Representations for Property Prediction.** JCIM 2019. [paper](https://arxiv.org/abs/1904.01561)
 
-    *Authors.*
+    *Kevin Yang, Kyle Swanson, Wengong Jin, Connor Coley, Philipp Eiden, Hua Gao, Angel Guzman-Perez, Timothy Hopper, Brian Kelley, Miriam Mathea, Andrew Palmer, Volker Settels, Tommi Jaakkola, Klavs Jensen, Regina Barzilay.*
 
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
+1. **Communicative representation learning on attributed molecular graphs.** IJCAI 2020. [paper](https://dl.acm.org/doi/pdf/10.5555/3491440.3491832)
 
-    *Authors.*
+    *Ying Song, Shuangjia Zheng, Zhangming Niu, Zhang-Hua Fu, Yutong Lu, Yuedong Yang.*
 
+1. **SumGNN: Multi-typed Drug Interaction Prediction via Efficient Knowledge Graph Summarization.** Bioinform. 2021. [paper](https://arxiv.org/abs/2010.01450)
+
+    *Yue Yu, Kexin Huang, Chao Zhang, Lucas M. Glass, Jimeng Sun, Cao Xiao.*
+
+1. **Equivariant message passing for the prediction of tensorial properties and molecular spectra.** ICML 2021. [paper](https://arxiv.org/abs/2102.03150)
+
+    *Kristof T. Schütt, Oliver T. Unke, Michael Gastegger.*
+
+1. **MDNN: A Multimodal Deep Neural Network for Predicting Drug-Drug Interaction Events.** IJCAI 2021. [paper](https://www.ijcai.org/proceedings/2021/487)
+
+    *Tengfei Lyu, Jianliang Gao, Ling Tian, Zhao Li, Peng Zhang, Ji Zhang.*
+
+1. **Highly accurate protein structure prediction with AlphaFold.** Nature 2021. [paper](https://www.nature.com/articles/s41586-021-03819-2)
+
+    *John Jumper, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, Russ Bates, Augustin Žídek, Anna Potapenko, Alex Bridgland, Clemens Meyer, Simon A. A. Kohl, Andrew J. Ballard, Andrew Cowie, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Jonas Adler, Trevor Back, Stig Petersen, David Reiman, Ellen Clancy, Michal Zielinski, Martin Steinegger, Michalina Pacholska, Tamas Berghammer, Sebastian Bodenstein, David Silver, Oriol Vinyals, Andrew W. Senior, Koray Kavukcuoglu, Pushmeet Kohli, Demis Hassabis.*
+
+1. **Out-of-the-box deep learning prediction of pharmaceutical properties by broadly learned knowledge-based molecular representations.** Nat. Mach. Intell. 2021. [paper](https://www.nature.com/articles/s42256-021-00301-6)
+
+    *Wan Xiang Shen, Xian Zeng, Feng Zhu, Ya li Wang, Chu Qin, Ying Tan, Yu Yang Jiang, Yu Zong Chen.*
+
+1. **GemNet: Universal Directional Graph Neural Networks for Molecules.** NeurIPS 2021. [paper](https://arxiv.org/abs/2106.08903)
+
+    *Johannes Gasteiger, Florian Becker, Stephan Günnemann.*
+
+1. **Spherical Message Passing for 3D Graph Networks.** ICLR 2022. [paper](https://arxiv.org/abs/2102.05013)
+
+    *Yi Liu, Limei Wang, Meng Liu, Xuan Zhang, Bora Oztekin, Shuiwang Ji.*
+
+1. **DRPreter: Interpretable Anticancer Drug Response Prediction Using Knowledge-Guided Graph Neural Networks and Transformer.** Int. J. Mol. Sci. 2022. [paper](https://www.mdpi.com/1422-0067/23/22/13919)
+
+    *Jihye Shin, Yinhua Piao, Dongmin Bang, Sun Kim, Kyuri Jo.*
+
+1. **DENVIS: Scalable and High-Throughput Virtual Screening Using Graph Neural Networks with Atomic and Surface Protein Pocket Features.** J. Chem. Inf. Model. 2022. [paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01057)
+
+    *Agamemnon Krasoulis, Nick Antonopoulos, Vassilis Pitsikalis, Stavros Theodorakis.*
+
+1. **E(3)-equivariant graph neural networks for data-efficient and accurate interatomic potentials.** Nat. Commun. 2022. [paper](https://www.nature.com/articles/s41467-022-29939-5)
+
+    *Simon Batzner, Albert Musaelian, Lixin Sun, Mario Geiger, Jonathan P Mailoa, Mordechai Kornbluth, Nicola Molinari, Tess E Smidt, Boris Kozinsky..*
+
+1. **Geometry-enhanced molecular representation learning for property prediction.** Nat. Mach. Intell. 2022. [paper](https://www.nature.com/articles/s42256-021-00438-4)
+
+    *Xiaomin Fang, Lihang Liu, Jieqiong Lei, Donglong He, Shanzhuo Zhang, Jingbo Zhou, Fan Wang, Hua Wu, Haifeng Wang.*
+
+1. **Spherical Message Passing for 3D Graph Networks.** ICLR 2022. [paper](https://arxiv.org/abs/2102.05013)
+
+    *Yi Liu, Limei Wang, Meng Liu, Xuan Zhang, Bora Oztekin, Shuiwang Ji.*
+
+1. **Robust deep learning–based protein sequence design using ProteinMPNN.** Science 2022. [paper](https://www.science.org/doi/10.1126/science.add2187)
+
+    *J. Dauparas, I. Anishchenko, N. Bennett, H. Bai, R. J. Ragotte, L. F. Milles, B. I. M. Wicky, A. Courbet, R. J. de Haas, N. Bethel, P. J. Y. Leung, T. F. Huddy, S. Pellock, D. Tischer, F. Chan, B. Koepnick, H. Nguyen, A. Kang, B. Sankaran, A. K. Bera, N. P. King, D. Baker.*
+
+1. **A Knowledge-Enhanced Multi-View Framework for Drug-Target Interaction Prediction.** TKDE 2022. [paper](https://ieeexplore.ieee.org/document/9324998)
+
+    *Ying Shen, Yilin Zhang, Kaiqi Yuan, Dagang Li, Haitao Zheng.*
 
 <a name="preprocessing-graph-structure-augmentation" />
 
 ### Graph structure augmentation
 
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
+1. **KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction.** IJCAI 2020. [paper](https://www.ijcai.org/proceedings/2020/380)
 
-    *Authors.*
+    *Xuan Lin, Zhe Quan, Zhi-Jie Wang, Tengfei Ma, Xiangxiang Zeng.*
 
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
+1. **Deciphering interaction fingerprints from protein molecular surfaces using geometric deep learning.** Nat. Methods 2020. [paper](https://www.nature.com/articles/s41592-019-0666-6)
 
-    *Authors.*
+    *P. Gainza, F. Sverrisson, F. Monti, E. Rodolà, D. Boscaini, M. M. Bronstein, B. E. Correia.*
 
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
+1. **FraGAT: a fragment-oriented multi-scale graph attention model for molecular property prediction.** Bioinform. 2021. [paper](https://academic.oup.com/bioinformatics/article/37/18/2981/6189082)
 
-    *Authors.*
+    *Ziqiao Zhang, Jihong Guan, Shuigeng Zhou.*
+
+1. **MDNN: A Multimodal Deep Neural Network for Predicting Drug-Drug Interaction Events.** IJCAI 2021. [paper](https://www.ijcai.org/proceedings/2021/487)
+
+    *Tengfei Lyu, Jianliang Gao, Ling Tian, Zhao Li, Peng Zhang, Ji Zhang.*
+
+1. **A unified drug–target interaction prediction framework based on knowledge graph and recommendation system.** Nat. Commun. 2021. [paper](https://www.nature.com/articles/s41467-021-27137-3)
+
+    *Qing Ye, Chang-Yu Hsieh, Ziyi Yang, Yu Kang, Jiming Chen, Dongsheng Cao, Shibo He, Tingjun Hou.*
+
+1. **scGCN is a graph convolutional networks algorithm for knowledge transfer in single cell omics.** Nat. Commun. 2021. [paper](https://www.nature.com/articles/s41467-021-24172-y)
+
+    *Qianqian Song, Jing Su, Wei Zhang.*
+
+1. **Multi-Scale Representation Learning on Proteins.** NeurIPS 2021. [paper](https://arxiv.org/abs/2204.02337)
+
+    *Vignesh Ram Somnath, Charlotte Bunne, Andreas Krause.*
+
+1. **Structured Multi-task Learning for Molecular Property Prediction.** AISTATS 2022. [paper](https://arxiv.org/abs/2203.04695)
+
+    *Shengchao Liu, Meng Qu, Zuobai Zhang, Huiyu Cai, Jian Tang.*
+
+1. **DTI-HETA: prediction of drug–target interactions based on GCN and GAT on heterogeneous graph.** Brief. Bioinform. 2022. [paper](https://academic.oup.com/bib/article-abstract/23/3/bbac109/6563180?redirectedFrom=fulltext)
+
+    *Kanghao Shao, Yunhao Zhang, Yuqi Wen, Zhongnan Zhang, Song He, Xiaochen Bo.*
+
+1. **DRPreter: Interpretable Anticancer Drug Response Prediction Using Knowledge-Guided Graph Neural Networks and Transformer.** Int. J. Mol. Sci. 2022. [paper](https://www.mdpi.com/1422-0067/23/22/13919)
+
+    *Jihye Shin, Yinhua Piao, Dongmin Bang, Sun Kim, Kyuri Jo.*
+
+1. **ReLMole: Molecular Representation Learning Based on Two-Level Graph Similarities.** J. Chem. Inf. Model. 2022. [paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00798)
+
+    *Zewei Ji, Runhan Shi, Jiarui Lu, Fang Li, and Yang Yang.*
 
 <a name="pretraining" />
 
