@@ -29,6 +29,10 @@ This is a collection of resources related with Knowledge-augmented Graph Machine
 
 ## Survey papers
 
+1. **Knowledge-augmented Graph Machine Learning for Drug Discovery: A Survey from Precision to Interpretability.** arxiv 2023. [paper](link-to-paper) 
+
+    *Zhiqiang Zhong, Anastasia Barkova, Davide Mottin.*
+
 <a name="surveypapers" />
 
 ## Papers
@@ -41,21 +45,33 @@ This is a collection of resources related with Knowledge-augmented Graph Machine
 
 ### Feature augmentation
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+    *Authors.*
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
+
+    *Authors.*
+
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
+
+    *Authors.*
 
 <a name="preprocessing-graph-structure-augmentation" />
 
 ### Graph structure augmentation
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+    *Authors.*
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
+
+    *Authors.*
+
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
+
+    *Authors.*
 
 <a name="pretraining" />
 
@@ -65,31 +81,49 @@ This is a collection of resources related with Knowledge-augmented Graph Machine
 
 ### Knowledge transfer pretraining
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+    *Authors.*
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
+
+    *Authors.*
+
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
+
+    *Authors.*
 
 <a name="pretraining-generative-sample" />
 
 ### Generative sample pretraining
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+    *Authors.*
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
+
+    *Authors.*
+
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
+
+    *Authors.*
 
 <a name="pretraining-contrastive-sample" />
 
 ### Contrastive-sample pretraining
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+    *Authors.*
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
+
+    *Authors.*
+
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
+
+    *Authors.*
 
 <a name="training" />
 
@@ -99,21 +133,33 @@ This is a collection of resources related with Knowledge-augmented Graph Machine
 
 ### Auxiliary task-enhanced training
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+    *Authors.*
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
+
+    *Authors.*
+
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
+
+    *Authors.*
 
 <a name="training-auxiliary-knowledge-enhanced" />
 
 ### Auxiliary knowledge-enhanced training
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+    *Authors.*
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
+
+    *Authors.*
+
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
+
+    *Authors.*
 
 <a name="interpretability" />
 
@@ -123,21 +169,33 @@ This is a collection of resources related with Knowledge-augmented Graph Machine
 
 ### Attention summarisation
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+    *Authors.*
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
+
+    *Authors.*
+
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
+
+    *Authors.*
 
 <a name="interpretability-pathway-extraction" />
 
 ### Pathway extraction
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+    *Authors.*
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
+
+    *Authors.*
+
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
+
+    *Authors.*
 
 <a name="resources" />
 
@@ -147,18 +205,30 @@ This is a collection of resources related with Knowledge-augmented Graph Machine
 
 ### Knowledge Database
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+    *Authors.*
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
+
+    *Authors.*
+
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
+
+    *Authors.*
 
 <a name="knowledge-graph" />
 
 ### Knowledge Graph
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+    *Authors.*
 
-1. **Paper Title.** *Authors.* Venue Year. [paper](link-to-paper)
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
+
+    *Authors.*
+
+1. **Paper Title.** Venue Year. [paper](link-to-paper)
+
+    *Authors.*
