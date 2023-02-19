@@ -365,26 +365,17 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 
     *Han Li, Dan Zhao, Jianyang Zeng.*
 
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
-
-    *Authors.*
-
-
 <a name="pretraining-contrastive-sample" />
 
 ### Contrastive-sample pretraining
 
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
+1. **MoCL: Data-driven Molecular Fingerprint via Knowledge-aware Contrastive Learning from Molecular Graph.** KDD 2021. [paper](https://arxiv.org/abs/2106.04509)
 
-    *Authors.*
+    *Mengying Sun, Jing Xing, Huijun Wang, Bin Chen, Jiayu Zhou.*
 
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
+1. **Molecular Contrastive Learning with Chemical Element Knowledge Graph.** AAAI 2022. [paper](https://arxiv.org/abs/2112.00544)
 
-    *Authors.*
-
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
-
-    *Authors.*
+    *Yin Fang, Qiang Zhang, Haihong Yang, Xiang Zhuang, Shumin Deng, Wen Zhang, Ming Qin, Zhuo Chen, Xiaohui Fan, Huajun Chen.*
 
 <a name="training" />
 
