@@ -329,33 +329,46 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 
 ### Knowledge transfer pretraining
 
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
+1. **Knowledge-Embedded Message-Passing Neural Networks: Improving Molecular Property Prediction with Human Knowledge.** ACS Omega 2021. [paper](https://pubs.acs.org/doi/10.1021/acsomega.1c03839)
 
-    *Authors.*
+    *Tatsuya Hasebe.*
 
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
+1. **PEMP: Leveraging Physics Properties to Enhance Molecular Property Prediction.** CIKM 2022. [paper](https://arxiv.org/abs/2211.01978)
 
-    *Authors.*
+    *Yuancheng Sun, Yimeng Chen, Weizhi Ma, Wenhao Huang, Kang Liu, Zhiming Ma, Wei-Ying Ma, Yanyan Lan.*
 
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
+1. **Pre-training Molecular Graph Representation with 3D Geometry.** ICLR 2022. [paper](https://arxiv.org/abs/2110.07728)
 
-    *Authors.*
+    *Shengchao Liu, Hanchen Wang, Weiyang Liu, Joan Lasenby, Hongyu Guo, Jian Tang.*
+
+1. **OntoProtein: Protein Pretraining With Gene Ontology Embedding.** ICLR 2022. [paper](https://openreview.net/forum?id=yfe1VMYAXa4)
+
+    *Ningyu Zhang, Zhen Bi, Xiaozhuan Liang, Siyuan Cheng, Haosen Hong, Shumin Deng, Qiang Zhang, Jiazhang Lian, Huajun Chen.*
+
+1. **3D Infomax improves GNNs for Molecular Property Prediction.** ICML 2022. [paper](https://arxiv.org/abs/2110.04126)
+
+    *Hannes Stärk, Dominique Beaini, Gabriele Corso, Prudencio Tossou, Christian Dallago, Stephan Günnemann, Pietro Liò.*
+
+1. **Geometry-enhanced molecular representation learning for property prediction.** Nat. Mach. Intell. 2022. [paper](https://www.nature.com/articles/s42256-021-00438-4)
+
+    *Xiaomin Fang, Lihang Liu, Jieqiong Lei, Donglong He, Shanzhuo Zhang, Jingbo Zhou, Fan Wang, Hua Wu, Haifeng Wang.*
 
 <a name="pretraining-generative-sample" />
 
 ### Generative sample pretraining
 
+1. **Graph Neural Networks Pretraining Through Inherent Supervision for Molecular Property Prediction.** CIKM 2022. [paper](https://dl.acm.org/doi/10.1145/3511808.3557085)
+
+    *Roy Benjamin, Uriel Singer, Kira Radinsky.*
+
+1. **KPGT: Knowledge-Guided Pre-training of Graph Transformer for Molecular Property Prediction.** KDD 2022. [paper](https://arxiv.org/abs/2206.03364)
+
+    *Han Li, Dan Zhao, Jianyang Zeng.*
+
 1. **Paper Title.** Venue Year. [paper](link-to-paper)
 
     *Authors.*
 
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
-
-    *Authors.*
-
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
-
-    *Authors.*
 
 <a name="pretraining-contrastive-sample" />
 
@@ -381,33 +394,25 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 
 ### Auxiliary task-enhanced training
 
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
+1. **Highly accurate protein structure prediction with AlphaFold.** Nature 2021. [paper](https://www.nature.com/articles/s41586-021-03819-2)
 
-    *Authors.*
+    *John Jumper, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, Russ Bates, Augustin Žídek, Anna Potapenko, Alex Bridgland, Clemens Meyer, Simon A. A. Kohl, Andrew J. Ballard, Andrew Cowie, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Jonas Adler, Trevor Back, Stig Petersen, David Reiman, Ellen Clancy, Michal Zielinski, Martin Steinegger, Michalina Pacholska, Tamas Berghammer, Sebastian Bodenstein, David Silver, Oriol Vinyals, Andrew W. Senior, Koray Kavukcuoglu, Pushmeet Kohli, Demis Hassabis.*
 
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
+1. **PEMP: Leveraging Physics Properties to Enhance Molecular Property Prediction.** CIKM 2022. [paper](https://arxiv.org/abs/2211.01978)
 
-    *Authors.*
+    *Yuancheng Sun, Yimeng Chen, Weizhi Ma, Wenhao Huang, Kang Liu, Zhiming Ma, Wei-Ying Ma, Yanyan Lan.*
 
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
+1. **KG-MTL: Knowledge Graph Enhanced Multi-Task Learning for Molecular Interaction.** TKDE 2022. [paper](https://ieeexplore.ieee.org/document/9815157)
 
-    *Authors.*
+    *Tengfei Ma, Xuan Lin, Bosheng Song, Philip S. Yu, Xiangxiang Zeng.*
 
 <a name="training-auxiliary-knowledge-enhanced" />
 
 ### Auxiliary knowledge-enhanced training
 
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
+1. **Knowledge-Embedded Message-Passing Neural Networks: Improving Molecular Property Prediction with Human Knowledge.** ACS Omega 2021. [paper](https://pubs.acs.org/doi/10.1021/acsomega.1c03839)
 
-    *Authors.*
-
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
-
-    *Authors.*
-
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
-
-    *Authors.*
+    *Tatsuya Hasebe.*
 
 <a name="interpretability" />
 
@@ -417,33 +422,21 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 
 ### Attention summarisation
 
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
+1. **SumGNN: Multi-typed Drug Interaction Prediction via Efficient Knowledge Graph Summarization.** Bioinform. 2021. [paper](https://arxiv.org/abs/2010.01450)
 
-    *Authors.*
-
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
-
-    *Authors.*
-
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
-
-    *Authors.*
+    *Yue Yu, Kexin Huang, Chao Zhang, Lucas M. Glass, Jimeng Sun, Cao Xiao.*
 
 <a name="interpretability-pathway-extraction" />
 
 ### Pathway extraction
 
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
+1. **DRPreter: Interpretable Anticancer Drug Response Prediction Using Knowledge-Guided Graph Neural Networks and Transformer.** Int. J. Mol. Sci. 2022. [paper](https://www.mdpi.com/1422-0067/23/22/13919)
 
-    *Authors.*
+    *Jihye Shin, Yinhua Piao, Dongmin Bang, Sun Kim, Kyuri Jo.*
 
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
+1. **Knowledge-guided deep learning models of drug toxicity improve interpretation.** Patterns 2022. [paper](https://pubmed.ncbi.nlm.nih.gov/36124309/)
 
-    *Authors.*
-
-1. **Paper Title.** Venue Year. [paper](link-to-paper)
-
-    *Authors.*
+    *Yun Hao, Joseph D Romano, Jason H Moore.*
 
 <a name="resources" />
 
