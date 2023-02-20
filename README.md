@@ -21,7 +21,7 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
   - [Incorporating Knowledge in *Interpretability*](#interpretability)
     - [Attention summarisation](#interpretability-attenntion-summarisation)
     - [Pathway extraction](#interpretability-pathway-extraction)
-- [Resources](#resources)
+- [Practical Resources](#resources)
   - [Knowledge Database](#knowledge-database)
   - [Knowledge Graph](#knowledge-graph)
 
@@ -431,7 +431,7 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 
 <a name="resources" />
 
-## Resources
+## Practical Resources
 
 <a name="knowledge-database" />
 
