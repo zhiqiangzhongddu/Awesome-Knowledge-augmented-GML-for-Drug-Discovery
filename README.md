@@ -699,3 +699,18 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 1. **Harmonizome.** *Intended Usage:* Drug discovery, Precision medicine. [Paper](https://pubmed.ncbi.nlm.nih.gov/27374120/)
 
     *A KG that focuses on gene- and protein-centric information and their interactions. It provides a unified view of biological knowledge and enables the discovery of new insights fin the biomedical field.*
+
+
+## Cite
+
+Please cite our paper if it is helpful in your own work:
+
+```
+@article{ZBM23,
+  title={Knowledge-augmented Graph Machine Learning for Drug Discovery: A Survey from Precision to Interpretability},
+  author={Zhiqiang Zhong and Anastasia Barkova and Davide Mottin},
+  journal = {CoRR},
+  volume = {abs/2302.08261},
+  year={2023},
+}
+```
