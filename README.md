@@ -193,9 +193,9 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 
     *Tengfei Ma, Xuan Lin, Bosheng Song, Philip S. Yu, Xiangxiang Zeng.*
 
-1. **Directional Message Passing on Molecular Graphs via Synthetic Coordinates.** NeurIPS 2021. [paper](https://arxiv.org/abs/2111.04718)
+1. **Hierarchical graph learning for protein-protein interaction.** Nat. Commun. 2023. [paper](https://www.nature.com/articles/s41467-023-36736-1)
 
-    *Johannes Gasteiger, Chandan Yeshwanth, Stephan Günnemann.*
+    *Ziqi Gao, Chenran Jiang, Jiawen Zhang, Xiaosen Jiang, Lanqing Li, Peilin Zhao, Huanming Yang, Yong Huang, Jia Li.*
 
 <a name="preprocessing" />
 
@@ -320,6 +320,10 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 1. **ReLMole: Molecular Representation Learning Based on Two-Level Graph Similarities.** J. Chem. Inf. Model. 2022. [paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00798)
 
     *Zewei Ji, Runhan Shi, Jiarui Lu, Fang Li, and Yang Yang.*
+
+1. **Hierarchical graph learning for protein-protein interaction.** Nat. Commun. 2023. [paper](https://www.nature.com/articles/s41467-023-36736-1)
+
+    *Ziqi Gao, Chenran Jiang, Jiawen Zhang, Xiaosen Jiang, Lanqing Li, Peilin Zhao, Huanming Yang, Yong Huang, Jia Li.*
 
 <a name="pretraining" />
 
