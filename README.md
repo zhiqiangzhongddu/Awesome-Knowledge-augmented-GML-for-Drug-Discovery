@@ -709,7 +709,7 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 
 Please cite our paper if it is helpful in your own work:
 
-```
+```bibtex
 @article{ZBM23,
   title={Knowledge-augmented Graph Machine Learning for Drug Discovery: A Survey from Precision to Interpretability},
   author={Zhiqiang Zhong and Anastasia Barkova and Davide Mottin},
