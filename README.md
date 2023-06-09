@@ -205,6 +205,10 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 
     *Yin Fang, Qiang Zhang, Ningyu Zhang, Zhuo Chen, Xiang Zhuang, Xin Shao, Xiaohui Fan & Huajun Chen.*
 
+1. **SemiGNN-PPI: Self-Ensembling Multi-Graph Neural Network for Efficient and Generalizable Protein-Protein Interaction Prediction.** IJCAI 2023. [[Paper]](https://arxiv.org/abs/2305.08316)
+
+    *Ziyuan Zhao, Peisheng Qian, Xulei Yang, Zeng Zeng, Cuntai Guan, Wai Leong Tam, Xiaoli Li.*
+
 <a name="preprocessing" />
 
 ## Incorporating Knowledge in *Preprocessing*
