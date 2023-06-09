@@ -201,6 +201,10 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 
     *Ruoxi Sun, Hanjun Dai, Adams Wei Yu.*
 
+1. **Knowledge graph-enhanced molecular contrastive learning with functional prompt.** Nature Machine Intelligence 2023. [[Paper]](https://www.nature.com/articles/s42256-023-00654-0)
+
+    *Yin Fang, Qiang Zhang, Ningyu Zhang, Zhuo Chen, Xiang Zhuang, Xin Shao, Xiaohui Fan & Huajun Chen.*
+
 <a name="preprocessing" />
 
 ## Incorporating Knowledge in *Preprocessing*
