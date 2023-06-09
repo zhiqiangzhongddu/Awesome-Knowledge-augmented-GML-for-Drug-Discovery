@@ -209,6 +209,10 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 
     *Ziyuan Zhao, Peisheng Qian, Xulei Yang, Zeng Zeng, Cuntai Guan, Wai Leong Tam, Xiaoli Li.*
 
+<!---
+42-43 need detailed classification
+-->
+
 <a name="preprocessing" />
 
 ## Incorporating Knowledge in *Preprocessing*
