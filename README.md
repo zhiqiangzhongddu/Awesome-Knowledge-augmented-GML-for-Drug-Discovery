@@ -210,7 +210,7 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
     *Ziyuan Zhao, Peisheng Qian, Xulei Yang, Zeng Zeng, Cuntai Guan, Wai Leong Tam, Xiaoli Li.*
 
 <!---
-42-43 need detailed classification
+43 need detailed classification
 -->
 
 <a name="preprocessing" />
@@ -401,6 +401,10 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 
     *Yin Fang, Qiang Zhang, Haihong Yang, Xiang Zhuang, Shumin Deng, Wen Zhang, Ming Qin, Zhuo Chen, Xiaohui Fan, Huajun Chen.*
 
+1. **Knowledge graph-enhanced molecular contrastive learning with functional prompt.** Nature Machine Intelligence 2023. [[Paper]](https://www.nature.com/articles/s42256-023-00654-0)
+
+    *Yin Fang, Qiang Zhang, Ningyu Zhang, Zhuo Chen, Xiang Zhuang, Xin Shao, Xiaohui Fan & Huajun Chen.*
+
 <a name="training" />
 
 ## Incorporating Knowledge in *Training*
@@ -429,6 +433,10 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 
     *Tatsuya Hasebe.*
 
+1. **Knowledge graph-enhanced molecular contrastive learning with functional prompt.** Nature Machine Intelligence 2023. [[Paper]](https://www.nature.com/articles/s42256-023-00654-0)
+
+    *Yin Fang, Qiang Zhang, Ningyu Zhang, Zhuo Chen, Xiang Zhuang, Xin Shao, Xiaohui Fan & Huajun Chen.*
+
 <a name="interpretability" />
 
 ## Incorporating Knowledge in *Interpretability*
@@ -440,6 +448,10 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 1. **SumGNN: Multi-typed Drug Interaction Prediction via Efficient Knowledge Graph Summarization.** Bioinform. 2021. [[Paper]](https://arxiv.org/abs/2010.01450)
 
     *Yue Yu, Kexin Huang, Chao Zhang, Lucas M. Glass, Jimeng Sun, Cao Xiao.*
+
+1. **Knowledge graph-enhanced molecular contrastive learning with functional prompt.** Nature Machine Intelligence 2023. [[Paper]](https://www.nature.com/articles/s42256-023-00654-0)
+
+    *Yin Fang, Qiang Zhang, Ningyu Zhang, Zhuo Chen, Xiang Zhuang, Xin Shao, Xiaohui Fan & Huajun Chen.*
 
 <a name="interpretability-pathway-extraction" />
 
