@@ -203,7 +203,7 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 
 1. **Knowledge graph-enhanced molecular contrastive learning with functional prompt.** Nature Machine Intelligence 2023. [[Paper]](https://www.nature.com/articles/s42256-023-00654-0)
 
-    *Yin Fang, Qiang Zhang, Ningyu Zhang, Zhuo Chen, Xiang Zhuang, Xin Shao, Xiaohui Fan & Huajun Chen.*
+    *Yin Fang, Qiang Zhang, Ningyu Zhang, Zhuo Chen, Xiang Zhuang, Xin Shao, Xiaohui Fan, Huajun Chen.*
 
 1. **SemiGNN-PPI: Self-Ensembling Multi-Graph Neural Network for Efficient and Generalizable Protein-Protein Interaction Prediction.** IJCAI 2023. [[Paper]](https://arxiv.org/abs/2305.08316)
 
@@ -403,7 +403,7 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 
 1. **Knowledge graph-enhanced molecular contrastive learning with functional prompt.** Nature Machine Intelligence 2023. [[Paper]](https://www.nature.com/articles/s42256-023-00654-0)
 
-    *Yin Fang, Qiang Zhang, Ningyu Zhang, Zhuo Chen, Xiang Zhuang, Xin Shao, Xiaohui Fan & Huajun Chen.*
+    *Yin Fang, Qiang Zhang, Ningyu Zhang, Zhuo Chen, Xiang Zhuang, Xin Shao, Xiaohui Fan, Huajun Chen.*
 
 <a name="training" />
 
@@ -435,7 +435,7 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 
 1. **Knowledge graph-enhanced molecular contrastive learning with functional prompt.** Nature Machine Intelligence 2023. [[Paper]](https://www.nature.com/articles/s42256-023-00654-0)
 
-    *Yin Fang, Qiang Zhang, Ningyu Zhang, Zhuo Chen, Xiang Zhuang, Xin Shao, Xiaohui Fan & Huajun Chen.*
+    *Yin Fang, Qiang Zhang, Ningyu Zhang, Zhuo Chen, Xiang Zhuang, Xin Shao, Xiaohui Fan, Huajun Chen.*
 
 <a name="interpretability" />
 
@@ -451,7 +451,7 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 
 1. **Knowledge graph-enhanced molecular contrastive learning with functional prompt.** Nature Machine Intelligence 2023. [[Paper]](https://www.nature.com/articles/s42256-023-00654-0)
 
-    *Yin Fang, Qiang Zhang, Ningyu Zhang, Zhuo Chen, Xiang Zhuang, Xin Shao, Xiaohui Fan & Huajun Chen.*
+    *Yin Fang, Qiang Zhang, Ningyu Zhang, Zhuo Chen, Xiang Zhuang, Xin Shao, Xiaohui Fan, Huajun Chen.*
 
 <a name="interpretability-pathway-extraction" />
 
