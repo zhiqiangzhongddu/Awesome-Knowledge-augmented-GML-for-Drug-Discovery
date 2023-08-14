@@ -209,6 +209,9 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 
     *Ziyuan Zhao, Peisheng Qian, Xulei Yang, Zeng Zeng, Cuntai Guan, Wai Leong Tam, Xiaoli Li.*
 
+1. **Multitask joint strategies of self-supervised representation learning on biomedical networks for drug discovery.** Nature Machine Intelligence 2023. [[Paper]](https://www.nature.com/articles/s42256-023-00640-6) 
+   *Xiaoqi Wang, Yingjie Cheng, Yaning Yang, Yue Yu, Fei Li, Shaoliang Peng.*
+
 <!---
 43 need detailed classification
 -->
@@ -424,6 +427,9 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 1. **KG-MTL: Knowledge Graph Enhanced Multi-Task Learning for Molecular Interaction.** TKDE 2022. [[Paper]](https://ieeexplore.ieee.org/document/9815157)
 
     *Tengfei Ma, Xuan Lin, Bosheng Song, Philip S. Yu, Xiangxiang Zeng.*
+
+1. **Multitask joint strategies of self-supervised representation learning on biomedical networks for drug discovery.** Nature Machine Intelligence 2023. [[Paper]](https://www.nature.com/articles/s42256-023-00640-6) 
+   *Xiaoqi Wang, Yingjie Cheng, Yaning Yang, Yue Yu, Fei Li, Shaoliang Peng.*
 
 <a name="training-auxiliary-knowledge-enhanced" />
 
