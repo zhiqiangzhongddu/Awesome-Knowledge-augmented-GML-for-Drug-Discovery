@@ -212,6 +212,9 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 1. **Multitask joint strategies of self-supervised representation learning on biomedical networks for drug discovery.** Nature Machine Intelligence 2023. [[Paper]](https://www.nature.com/articles/s42256-023-00640-6) 
    *Xiaoqi Wang, Yingjie Cheng, Yaning Yang, Yue Yu, Fei Li, Shaoliang Peng.*
 
+1. **Protein Representation Learning via Knowledge Enhanced Primary Structure Reasoning.** ICLR 2023. [[Paper]](https://openreview.net/forum?id=VbCMhg7MRmj) 
+   *Hong-Yu Zhou, Yunxiang Fu, Zhicheng Zhang, Bian Cheng, Yizhou Yu.* 
+
 <!---
 43 need detailed classification
 -->
@@ -379,6 +382,9 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 1. **Does GNN Pretraining Help Molecular Representation?.** NeurIPS 2022. [[Paper]](https://arxiv.org/pdf/2207.06010.pdf)
 
     *Ruoxi Sun, Hanjun Dai, Adams Wei Yu.*
+
+1. **Protein Representation Learning via Knowledge Enhanced Primary Structure Reasoning.** ICLR 2023. [[Paper]](https://openreview.net/forum?id=VbCMhg7MRmj) 
+   *Hong-Yu Zhou, Yunxiang Fu, Zhicheng Zhang, Bian Cheng, Yizhou Yu.* 
 
 <a name="pretraining-generative-sample" />
 
