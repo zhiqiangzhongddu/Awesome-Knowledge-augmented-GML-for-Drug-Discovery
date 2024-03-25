@@ -215,6 +215,9 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 1. **Protein Representation Learning via Knowledge Enhanced Primary Structure Reasoning.** ICLR 2023. [[Paper]](https://openreview.net/forum?id=VbCMhg7MRmj) 
    *Hong-Yu Zhou, Yunxiang Fu, Zhicheng Zhang, Bian Cheng, Yizhou Yu.* 
 
+1. **Predicting transcriptional outcomes of novel multigene perturbations with GEARS.** Nature Biotechnology 2023. [[Paper]](https://pubmed.ncbi.nlm.nih.gov/37592036/) 
+   *Yusuf Roohani, Kexin Huang, Jure Leskovec.* 
+
 <!---
 43 need detailed classification
 -->
@@ -384,7 +387,7 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
     *Ruoxi Sun, Hanjun Dai, Adams Wei Yu.*
 
 1. **Protein Representation Learning via Knowledge Enhanced Primary Structure Reasoning.** ICLR 2023. [[Paper]](https://openreview.net/forum?id=VbCMhg7MRmj) 
-   *Hong-Yu Zhou, Yunxiang Fu, Zhicheng Zhang, Bian Cheng, Yizhou Yu.* 
+   *Hong-Yu Zhou, Yunxiang Fu, Zhicheng Zhang, Bian Cheng, Yizhou Yu.*
 
 <a name="pretraining-generative-sample" />
 
@@ -448,6 +451,9 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 1. **Knowledge graph-enhanced molecular contrastive learning with functional prompt.** Nature Machine Intelligence 2023. [[Paper]](https://www.nature.com/articles/s42256-023-00654-0)
 
     *Yin Fang, Qiang Zhang, Ningyu Zhang, Zhuo Chen, Xiang Zhuang, Xin Shao, Xiaohui Fan, Huajun Chen.*
+
+1. **Predicting transcriptional outcomes of novel multigene perturbations with GEARS.** Nature Biotechnology 2023. [[Paper]](https://pubmed.ncbi.nlm.nih.gov/37592036/) 
+   *Yusuf Roohani, Kexin Huang, Jure Leskovec.* 
 
 <a name="interpretability" />
 
