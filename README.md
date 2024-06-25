@@ -177,6 +177,10 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 
     *Limei Wang, Yi Liu, Yuchao Lin, Haoran Liu, Shuiwang Ji.*
 
+1. **Does GNN Pretraining Help Molecular Representation?** NeurIPS 2022. [[Paper]](https://arxiv.org/pdf/2207.06010.pdf)
+
+    *Ruoxi Sun, Hanjun Dai, Adams Wei Yu.*
+
 1. **Knowledge-guided deep learning models of drug toxicity improve interpretation.** Patterns 2022. [[Paper]](https://pubmed.ncbi.nlm.nih.gov/36124309/)
 
     *Yun Hao, Joseph D Romano, Jason H Moore.*
@@ -196,10 +200,6 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 1. **Hierarchical graph learning for protein-protein interaction.** Nat. Commun. 2023. [[Paper]](https://www.nature.com/articles/s41467-023-36736-1)
 
     *Ziqi Gao, Chenran Jiang, Jiawen Zhang, Xiaosen Jiang, Lanqing Li, Peilin Zhao, Huanming Yang, Yong Huang, Jia Li.*
-
-1. **Does GNN Pretraining Help Molecular Representation?.** NeurIPS 2022. [[Paper]](https://arxiv.org/pdf/2207.06010.pdf)
-
-    *Ruoxi Sun, Hanjun Dai, Adams Wei Yu.*
 
 1. **Knowledge graph-enhanced molecular contrastive learning with functional prompt.** Nature Machine Intelligence 2023. [[Paper]](https://www.nature.com/articles/s42256-023-00654-0)
 
@@ -382,7 +382,7 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 
     *Xiaomin Fang, Lihang Liu, Jieqiong Lei, Donglong He, Shanzhuo Zhang, Jingbo Zhou, Fan Wang, Hua Wu, Haifeng Wang.*
 
-1. **Does GNN Pretraining Help Molecular Representation?.** NeurIPS 2022. [[Paper]](https://arxiv.org/pdf/2207.06010.pdf)
+1. **Does GNN Pretraining Help Molecular Representation?** NeurIPS 2022. [[Paper]](https://arxiv.org/pdf/2207.06010.pdf)
 
     *Ruoxi Sun, Hanjun Dai, Adams Wei Yu.*
 
