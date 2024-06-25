@@ -205,10 +205,6 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
     
    *Ziyuan Zhao, Peisheng Qian, Xulei Yang, Zeng Zeng, Cuntai Guan, Wai Leong Tam, Xiaoli Li.*
 
-1. **Predicting transcriptional outcomes of novel multigene perturbations with GEARS.** Nature Biotechnology 2023. [[Paper]](https://pubmed.ncbi.nlm.nih.gov/37592036/) 
-   
-   *Yusuf Roohani, Kexin Huang, Jure Leskovec.* 
-
 1. **Hierarchical graph learning for protein-protein interaction.** Nat. Commun. 2023. [[Paper]](https://www.nature.com/articles/s41467-023-36736-1)
 
    *Ziqi Gao, Chenran Jiang, Jiawen Zhang, Xiaosen Jiang, Lanqing Li, Peilin Zhao, Huanming Yang, Yong Huang, Jia Li.*
@@ -220,6 +216,10 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 1. **Multitask joint strategies of self-supervised representation learning on biomedical networks for drug discovery.** Nature Machine Intelligence 2023. [[Paper]](https://www.nature.com/articles/s42256-023-00640-6) 
    
    *Xiaoqi Wang, Yingjie Cheng, Yaning Yang, Yue Yu, Fei Li, Shaoliang Peng.*
+
+1. **Predicting transcriptional outcomes of novel multigene perturbations with GEARS.** Nature Biotechnology 2024. [[Paper]](https://pubmed.ncbi.nlm.nih.gov/37592036/) 
+   
+   *Yusuf Roohani, Kexin Huang, Jure Leskovec.* 
 
 1. **Efficiently Predicting Mutational Effect on Homologous Proteins by Evolution Encoding.** ECML-PKDD 2024. [[Paper]](https://arxiv.org/abs/2402.13418) 
    
