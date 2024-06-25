@@ -218,6 +218,9 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 1. **Predicting transcriptional outcomes of novel multigene perturbations with GEARS.** Nature Biotechnology 2023. [[Paper]](https://pubmed.ncbi.nlm.nih.gov/37592036/) 
    *Yusuf Roohani, Kexin Huang, Jure Leskovec.* 
 
+1. **Efficiently Predicting Mutational Effect on Homologous Proteins by Evolution Encoding.** ECML-PKDD 2024. [[Paper]](https://arxiv.org/abs/2402.13418) 
+   *Zhiqiang Zhong, Davide Mottin.* 
+
 <!---
 43 need detailed classification
 -->
@@ -454,6 +457,9 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 
 1. **Predicting transcriptional outcomes of novel multigene perturbations with GEARS.** Nature Biotechnology 2023. [[Paper]](https://pubmed.ncbi.nlm.nih.gov/37592036/) 
    *Yusuf Roohani, Kexin Huang, Jure Leskovec.* 
+
+1. **Efficiently Predicting Mutational Effect on Homologous Proteins by Evolution Encoding.** ECML-PKDD 2024. [[Paper]](https://arxiv.org/abs/2402.13418) 
+   *Zhiqiang Zhong, Davide Mottin.* 
 
 <a name="interpretability" />
 
