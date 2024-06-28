@@ -145,6 +145,10 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 
     *Yi Liu, Limei Wang, Meng Liu, Xuan Zhang, Bora Oztekin, Shuiwang Ji.*
 
+1. **Learning 3D Representations of Molecular Chirality with Invariance to Bond Rotations.** ICLR 2022. [[Paper]](https://arxiv.org/pdf/2110.04383)
+
+    *Keir Adams and Lagnajit Pattanaik and Connor W. Coley.*
+
 1. **3D Infomax improves GNNs for Molecular Property Prediction.** ICML 2022. [[Paper]](https://arxiv.org/abs/2110.04126)
 
     *Hannes Stärk, Dominique Beaini, Gabriele Corso, Prudencio Tossou, Christian Dallago, Stephan Günnemann, Pietro Liò.*
@@ -197,6 +201,14 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 
     *Tengfei Ma, Xuan Lin, Bosheng Song, Philip S. Yu, Xiangxiang Zeng.*
 
+1. **Interpretable Chirality-Aware Graph Neural Network for Quantitative Structure Activity Relationship Modeling in Drug Discovery.** AAAI 2023. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26679)
+   
+   *Yunchao Liu, Yu Wang, Oanh Vu, Rocco Moretti, Bobby Bodenheimer, Jens Meiler, Tyler Derr.*
+
+1. **ChiENN: Embracing Molecular Chirality with Graph Neural Networks.** ECML-PKDD 2022. [[Paper]](https://arxiv.org/pdf/2307.02198) 
+   
+   *Piotr Gainski and Michal Koziarski and Jacek Tabor and Marek Smieja.* 
+
 1. **Protein Representation Learning via Knowledge Enhanced Primary Structure Reasoning.** ICLR 2023. [[Paper]](https://openreview.net/forum?id=VbCMhg7MRmj)
    
    *Hong-Yu Zhou, Yunxiang Fu, Zhicheng Zhang, Bian Cheng, Yizhou Yu.*
@@ -224,10 +236,6 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 1. **Predicting transcriptional outcomes of novel multigene perturbations with GEARS.** Nature Biotechnology 2024. [[Paper]](https://pubmed.ncbi.nlm.nih.gov/37592036/) 
    
    *Yusuf Roohani, Kexin Huang, Jure Leskovec.*
-
-<!---
-43 need detailed classification
--->
 
 <a name="preprocessing" />
 
@@ -274,6 +282,10 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
     *Johannes Gasteiger, Florian Becker, Stephan Günnemann.*
 
 1. **Spherical Message Passing for 3D Graph Networks.** ICLR 2022. [[Paper]](https://arxiv.org/abs/2102.05013)
+
+    *Yi Liu, Limei Wang, Meng Liu, Xuan Zhang, Bora Oztekin, Shuiwang Ji.*
+
+1. **Learning 3D Representations of Molecular Chirality with Invariance to Bond Rotations.** ICLR 2022. [[Paper]](https://arxiv.org/abs/2102.05013)
 
     *Yi Liu, Limei Wang, Meng Liu, Xuan Zhang, Bora Oztekin, Shuiwang Ji.*
 
@@ -457,16 +469,28 @@ This is a collection of resources related with ***Knowledge-augmented Graph Mach
 
     *Tatsuya Hasebe.*
 
+1. **Interpretable Chirality-Aware Graph Neural Network for Quantitative Structure Activity Relationship Modeling in Drug Discovery.** AAAI 2023. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26679)
+   
+   *Yunchao Liu, Yu Wang, Oanh Vu, Rocco Moretti, Bobby Bodenheimer, Jens Meiler, Tyler Derr.*
+
+1. **ChiENN: Embracing Molecular Chirality with Graph Neural Networks.** ECML-PKDD 2022. [[Paper]](https://arxiv.org/pdf/2307.02198) 
+   
+   *Piotr Gainski and Michal Koziarski and Jacek Tabor and Marek Smieja.* 
+
 1. **Knowledge graph-enhanced molecular contrastive learning with functional prompt.** Nature Machine Intelligence 2023. [[Paper]](https://www.nature.com/articles/s42256-023-00654-0)
 
     *Yin Fang, Qiang Zhang, Ningyu Zhang, Zhuo Chen, Xiang Zhuang, Xin Shao, Xiaohui Fan, Huajun Chen.*
+
+1. **Learning 3D Representations of Molecular Chirality with Invariance to Bond Rotations.** ICLR 2022. [[Paper]](https://arxiv.org/pdf/2110.04383)
+
+    *Keir Adams and Lagnajit Pattanaik and Connor W. Coley.*
 
 1. **Predicting transcriptional outcomes of novel multigene perturbations with GEARS.** Nature Biotechnology 2023. [[Paper]](https://pubmed.ncbi.nlm.nih.gov/37592036/) 
    *Yusuf Roohani, Kexin Huang, Jure Leskovec.* 
 
 1. **Efficiently Predicting Mutational Effect on Homologous Proteins by Evolution Encoding.** ECML-PKDD 2024. [[Paper]](https://arxiv.org/abs/2402.13418) 
    
-   *Zhiqiang Zhong, Davide Mottin.* 
+   *Zhiqiang Zhong, Davide Mottin.*
 
 <a name="interpretability" />
 
